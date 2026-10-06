@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Sandra 👋
 
-<!--
-**sprostebii/sprostebii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring SOC Analyst based in Israel, currently completing
+professional cybersecurity training and developing hands-on experience
+in defensive security and incident investigation.
 
-Here are some ideas to get you started:
+## 🛡️ Cybersecurity Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SOC Analysis
+- SIEM & EDR
+- Incident Response
+- Windows Event Log Analysis
+- Active Directory
+- Network Traffic Analysis
+- Linux
+- TCP/IP & Networking
+- Wireshark
+
+## 🔬 Cybersecurity Portfolio
+
+I'm building hands-on security investigations and home lab projects
+focused on analyzing real-world security scenarios.
+
+Projects and detailed write-ups will be available here.
+
+## 📚 Currently Learning
+
+- Blue Team investigation techniques
+- SIEM / EDR
+- Detection & Incident Response
+- Windows Security
+- Network Security
+
+## 🎯 Career Goal
+
+I'm currently looking for my first opportunity in cybersecurity
+or IT infrastructure, including:
+
+- Junior SOC Analyst
+- NOC
+- Tier 2 Technical Support
+- Junior System Administrator
